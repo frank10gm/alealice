@@ -386,16 +386,16 @@ a:hover {
   #bio-top {
     background: url(../img/home.jpg);
     background-size: cover;
-    background-position: center 0px;
+    background-position: 48% 0px;
     background-repeat: no-repeat;
-    height: 600px;
+    height: 700px;
     padding: 0px;
   }
   #bio-top .inner {
     background: rgba(0, 0, 0, 0)
       url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAYAAACddGYaAAAAD0lEQVQIW2NkQABjRmQOAAM+AGkQsDBSAAAAAElFTkSuQmCC)
       repeat;
-    min-height: 600px;
+    min-height: 700px;
     position: relative;
     text-align: center;
   }

@@ -9,14 +9,14 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Pietro e Giulia 2016">
+    <meta name="description" content="Alice e Alessandro 2024">
     <meta property="og:image" content="" />
-    <meta property="og:title" content="Pietro e Giulia 2016" />
-    <meta property="og:description" content="Pietro e Giulia 2016" />
-    <meta property="og:site_name" content="Pietro e Giulia 2016" />
+    <meta property="og:title" content="Alice e Alessandro 2024" />
+    <meta property="og:description" content="Alice e Alessandro 2024" />
+    <meta property="og:site_name" content="Alice e Alessandro 2024" />
     <meta property="og:type" content="website" />
 
-    <title>Pietro e Giulia 2016</title>
+    <title>Alice e Alessandro 2024</title>
 
     <!-- icona sito -->
     <link rel="icon" type="image/png" href="img/logo/fav.png">
